@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mohit Patnaik</h1>
-<h3 align="center">Experienced Software Engineer with 2.5 years of experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitpatnaik1999&label=Profile%20views&color=0e75b6&style=flat" alt="mohitpatnaik1999" /> </p>
 
