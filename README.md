@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitpatnaik1999&label=Profile%20views&color=0e75b6&style=flat" alt="mohitpatnaik1999" /> </p>
 
-- 🌱 I’m currently learning **REST API Testing**
+- 🌱 I’m currently learning **Python API Testing using Request Library**
 
 - 📫 How to reach me **mohitpatnaik1999@gmail.com**
 
